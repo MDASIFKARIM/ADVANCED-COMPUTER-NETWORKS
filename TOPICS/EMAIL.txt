@@ -1,0 +1,56 @@
+1ST GIVE ALL DEVICE IP
+----------------------------------------------------------------------
+GO TO SERVICE.... SELECT EMAIL...DOMAIN NAME:GMAIL.COM ,USER: ADMIN,PASSWORD:ADMIN.....SET----+
+
+
+USER: VIEWERS,PASSWORD:VIEWERS.....SET----+
+
+
+-------------------------------------------------------
+GO TO PC....SELECT EMAIL....EMAIL CONFIGURE
+
+YOUR NAME: ASIF
+EMAIL ADDRESS:ASIF@GMAIL.COM
+
+
+INCOMMING MAIL SERVER: EMAIL IP ADDRESS
+OUTGOING MAIL SERVER:EMAIL IP ADDRESS
+
+
+USER NAME:ADMIN
+PASSWORD:ADMIN
+
+SAVE
+====================================
+PC 2
+
+GO TO PC....SELECT EMAIL....EMAIL CONFIGURE
+
+YOUR NAME: VIWERS
+EMAIL ADDRESS:VIWERS@GMAIL.COM
+
+
+INCOMMING MAIL SERVER: EMAIL IP ADDRESS
+OUTGOING MAIL SERVER:EMAIL IP ADDRESS
+
+
+USER NAME:VIWERS
+PASSWORD:VIWERS
+
+SAVE
+-----------------------------------------------
+SEND MAIL...........SELECT COMPOSE MAIL
+
+TO:VIWERS@GMAIL.COM
+
+SUBJECT:HELLOW
+
+HI GOOGLE
+
+SEND
+
+----------------------------------------------------
+
+
+
+
