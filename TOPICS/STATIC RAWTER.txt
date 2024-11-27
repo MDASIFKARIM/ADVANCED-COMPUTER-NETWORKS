@@ -1,0 +1,8 @@
+1ST GIVE ALL DEVICE IP
+----------------------------------------------------------------------
+RAWTER: GO TO static---------NETWORK: select r2= i go r1 pc releted 1st ip(example:192.168.1.0)
+mask:255.255.255.0 , next hop:1st rawter ip(example:10.0.0.1)
+
+----------------------------------------------------------------------
+
+then do it other rawter
