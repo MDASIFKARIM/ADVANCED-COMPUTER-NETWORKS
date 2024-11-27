@@ -1,0 +1,9 @@
+website: www.google.com
+
+1st need dns server
+2nd need http server
+--------------------
+
+dns server ip provide https destop go to dns set ip
+
+dns server go to service .... go to name: www.goole.com(domain name)....address:https server ip(which server i need)...then ADD
