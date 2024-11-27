@@ -1,0 +1,47 @@
+1ST GIVE ALL DEVICE IP
+----------------------------------------------------------------------
+GO TO SERVICE....SELECT FTP....USER NAME: GOOGLE, PASSWORD: 123,
+---------------
+PERMITION:WRITE,READ,DELETE,RENAME,LIST.........ADD
+
+
+---------------------------
+THEN GO TO DNS SERVER.....GO TO SERVISE...ADDRESS:GOOGLE.COM ....ADDRESS:FTP SERVER IP
+
+
+--------------------------
+THEN GO TO PC .........SELECT COMMAND PROMPT.....
+
+WRITE CODE:
+
+GOOGLE.COM
+USER NAME:
+PASSWORD:
+
+---------------------------------------------------------
+UPLOAD FILE:
+
+GO TO PC.......SELECT TEXT EDITOR......WRITE SOMETHING...SAVE WITH FILE NAME(google.txt)....
+
+
+------------------------------------------------------------
+THEN GO TO PC .........SELECT COMMAND PROMPT.....
+
+WRITE CODE:
+dir (how many file there)
+
+ctrl+c (exit)
+
+ftp.google.com----------------------(server domain name)
+
+username,password
+
+put google.txt(file name)-----------(pc to server file store)
+
+get google.txt(file name)-----------(server to pc file download)
+
+
+
+
+
+
