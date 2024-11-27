@@ -1,0 +1,4 @@
+1ST GIVE ALL DEVICE IP
+----------------------------------------------------------------------
+RAWTER: GO TO RIP---------NETWORK: PC RELETED 1ST IP (EXAMPLE[1.0.0.0])AND
+ RAWTER IP(EXAMPLE:[2.0.0.0]).....ADD
