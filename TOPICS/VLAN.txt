@@ -1,0 +1,50 @@
+VLAN USE DIPARTMANT WAYS IP PROVIDE
+
+----------------------------------------
+SWITCH:
+
+en
+
+sh vlan brief  (show any vlan create past details)
+
+conf t
+
+vlan 11--------(vlan name)
+name CSE-------(VLAN DEPARTMENT NAME)
+ex
+
+
+--------------------------------------
+vlan 22
+name BBA
+ex
+
+------------------------------
+
+exit
+sh vlan brief
+
+-------------------------------
+en
+
+config t
+
+INT F0/1(PC PORT)
+
+SWITCHPORT MODE ACCESS--------(TAB FOR SUGGTION )
+
+SWITCH
+
+SWITCHPORT ACCESS VLAN11
+
+--------------------------------------------
+INT F0/2
+
+SWITCH
+
+SWITCHPORT MODE ACCESS--------(TAB FOR SUGGTION )
+
+SWITCHPORT ACCESS VLAN11
+--------------------------------------------------------------
+--------------------------------------------------------------
+
