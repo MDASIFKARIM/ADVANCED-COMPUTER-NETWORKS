@@ -7,3 +7,9 @@ website: www.google.com
 dns server ip provide https destop go to dns set ip
 
 dns server go to service .... go to name: www.goole.com(domain name)....address:https server ip(which server i need)...then ADD
+
+
+---------------------------------------
+
+GO TO COMPUTER........SELECT DESKTOP......SELECT WEB BROWSER...URL:WRITE YOUR WEB SITE....
+-------------------------------------------
